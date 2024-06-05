@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/Objetos/bin/Debug/net8.0/Trabajos
+/home/et12alumno/Escritorio/Objetos/bin/Debug/net8.0/Trabajos.deps.json
+/home/et12alumno/Escritorio/Objetos/bin/Debug/net8.0/Trabajos.runtimeconfig.json
+/home/et12alumno/Escritorio/Objetos/bin/Debug/net8.0/Trabajos.dll
+/home/et12alumno/Escritorio/Objetos/bin/Debug/net8.0/Trabajos.pdb
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.AssemblyInfo.cs
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.dll
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/refint/Trabajos.dll
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.pdb
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/Trabajos.genruntimeconfig.cache
+/home/et12alumno/Escritorio/Objetos/obj/Debug/net8.0/ref/Trabajos.dll
